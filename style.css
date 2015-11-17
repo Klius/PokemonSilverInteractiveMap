@@ -15,3 +15,9 @@ ul{
 	float:left;
 
 }
+#information{
+	position:absolute;
+	top:35%;
+	border: solid;
+	width:35%;
+}

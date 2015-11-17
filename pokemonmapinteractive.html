@@ -6,7 +6,6 @@
 </head>
 <body>
 <img src="kantojohto.png" usemap="#map" />
-<div id="Cianwood"></div>
 <ul>
 	<li><a id="Cianwood_City" href="http://www.serebii.net/pokearth/johto/2nd/cianwoodcity.shtml">Cianwood City</a></li>
 	<li><a id="Olivine_City" href="http://www.serebii.net/pokearth/johto/2nd/olivinecity.shtml">Olivine City</a></li>
@@ -29,8 +28,10 @@
 	<li><a id="Celadon_City" href="http://www.serebii.net/pokearth/kanto/2nd/celadoncity.shtml">Celadon City</a></li>
 	<li><a id="Vermilion_City" href="http://www.serebii.net/pokearth/kanto/2nd/vermilioncity.shtml">Vermilion City</a></li>
 	<li><a id="Fuchsia_City" href="http://www.serebii.net/pokearth/kanto/2nd/fuchsiacity.shtml">Fuchsia City</a></li>
-	
 </ul>
+<div id="information">
+	<p>pene</p>
+</div>
 <map name="map">
 <area shape="rect" coords="46,93,58,106" href="" alt="Cianwood_City"/>
 <area shape="rect" coords="70,46,82,58" href="#" alt="Olivine_City"/>
@@ -54,31 +55,7 @@
 <area shape="rect" coords="341,86,354,98" href="Vermilion City" alt="Vermilion_City" />
 <area shape="rect" coords="326,109,338,121" href="Fuchsia City" alt="Fuchsia_City" />
 </map>
-<script type="text/javascript">
-	window.onload=function(){
-		addMouseOvers();
-	};
-	function addMouseOvers(){
-		var areas = document.getElementsByTagName("area");
-		for(var i = 0; i < areas.length; i++){
-			areas[i].onmouseover = function(){
-				resaltarMapa(this);
-			};
-		}
-	}
-	function resaltarMapa(area){
-		console.log(area)
-		anchors = document.getElementsByTagName("a");
-		for(var i = 0; i < anchors.length ; i++){
-			if(area.alt === anchors[i].id){
-				anchors[i].className="selected";
-
-			}
-			else{
-				anchors[i].className="";
-			}
-		}
-	}
+<script type="text/javascript" src="interaction.js">
 </script>
 </body>
 </html>
