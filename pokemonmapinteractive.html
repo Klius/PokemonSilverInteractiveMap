@@ -1,0 +1,50 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<img src="kantojohto.png" usemap="#map" />
+
+<map name="map">
+<area shape="rect" coords="46,93,58,106" href="Cianwood City" alt="Cianwood City"/>
+<area shape="rect" coords="70,46,82,58" href="Olivine City" alt="Olivine City"/>
+<area shape="rect" coords="110,30,121,42" href="Ecruteak City" alt="Ecruteak City" />
+<area shape="rect" coords="126,46,138,58" href="Violet City" alt="Violet City" />
+<area shape="rect" coords="94,86,106,98" href="Goldenrod City" alt="Goldenrod City" />
+<area shape="rect" coords="110,126,122,138" href="Azalea Town" alt="Azalea Town" />
+<area shape="rect" coords="150,94,162,106" href="Cherrygrove City" alt="Cherrygrove City" />
+<area shape="rect" coords="158,30,170,42" href="Mahogany Town" alt="Mahogany Town" />
+<area shape="rect" coords="198,31,209,42" href="Blackthorn City" alt="Blackthorn City"/>
+<area shape="rect" coords="206,94,218,106" href="New Bark Town" alt="New Bark Town" />
+<area shape="rect" coords="246,39,257,49" href="Indigo Plateau" alt="Indigo Plateau" />
+<area shape="rect" coords="262,46,273,58" href="Pewter City" alt="Pewter City"/>
+<area shape="rect" coords="261,78,274,90" href="Viridian City" alt="Viridian City" />
+<area shape="rect" coords="262,102,274,114" href="Pallet Town" alt="Pallet Town" />
+<area shape="rect" coords="261,126,274,138" href="Cinnabar Island" alt="Cinnabar Island" />
+<area shape="rect" coords="342,38,354,50" href="Cerulean City" alt="Cerulean City" />
+<area shape="rect" coords="341,62,354,74" href="Saffron City" alt="Saffron City" />
+<area shape="rect" coords="374,62,385,74" href="Lavender Town" alt="Lavender Town" />
+<area shape="rect" coords="318,62,330,74" href="Celadon City" alt="Celadon City" />
+<area shape="rect" coords="341,86,354,98" href="Vermilion City" alt="Vermilion City" />
+<area shape="rect" coords="326,109,338,121" href="Fuchsia City" alt="Fuchsia City" />
+</map>
+<script type="text/javascript">
+	window.onload=function(){
+		addMouseOvers();
+	};
+	function addMouseOvers(){
+		var areas = document.getElementsByTagName("area");
+		for(var i = 0; i < areas.length; i++){
+			areas[i].onmouseover = function(){
+				resaltarMapa(this);
+			};
+		}
+	}
+	function resaltarMapa(area){
+		console.log(area)
+		var areas = document.getElementsByTagName("area");
+
+	}
+</script>
+</body>
+</html>
