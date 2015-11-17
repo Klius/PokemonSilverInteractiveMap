@@ -1,0 +1,17 @@
+.selected{
+	padding:2px;
+	background-color: rgba(0,0,0,0.1);
+}
+a{
+	transition-duration: 1s;
+	transition-property: background-color,padding;
+	color:black;
+}
+img{
+	float:left;
+}
+ul{
+	list-style: none;
+	float:left;
+
+}
