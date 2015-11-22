@@ -20,4 +20,9 @@ window.onload=function(){
 				anchors[i].className="";
 			}
 		}
+		seleccionarCiudad(area.alt);
+	}
+	function seleccionarCiudad(classe){
+		document.getElementById("selectedtown").className=classe;
+
 	}
