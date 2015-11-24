@@ -5,8 +5,13 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<img src="kantojohto.png" usemap="#map" />
-<ul>
+<div id="map">
+	<img src="assets/graphics/kantojohto.png" usemap="#map" />
+	<div id="information">
+		<i>Hover over the map to see more info about the towns.</i>
+	</div>
+</div>
+<ul id="namelist">
 	<li><a id="Cianwood_City" href="http://www.serebii.net/pokearth/johto/2nd/cianwoodcity.shtml">Cianwood City</a></li>
 	<li><a id="Olivine_City" href="http://www.serebii.net/pokearth/johto/2nd/olivinecity.shtml">Olivine City</a></li>
 	<li><a id="Ecruteak_City" href="http://www.serebii.net/pokearth/johto/2nd/ecruteakcity.shtml">Ecruteak City</a></li>
@@ -29,10 +34,8 @@
 	<li><a id="Vermilion_City" href="http://www.serebii.net/pokearth/kanto/2nd/vermilioncity.shtml">Vermilion City</a></li>
 	<li><a id="Fuchsia_City" href="http://www.serebii.net/pokearth/kanto/2nd/fuchsiacity.shtml">Fuchsia City</a></li>
 </ul>
-<img id="selectedtown" src="assets/selected.png">
-<div id="information">
-	<p>pene</p>
-</div>
+<img id="selectedtown" src="assets/graphics/selected.png">
+
 <map name="map">
 <area shape="rect" coords="46,93,58,106" href="" alt="Cianwood_City"/>
 <area shape="rect" coords="70,46,82,58" href="#" alt="Olivine_City"/>

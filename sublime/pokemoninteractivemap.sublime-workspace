@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"mysqli_",
+				"mysqli_execute"
+			],
+			[
+				"mysqli",
+				"mysqli_execute"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"mysql_",
+				"mysql_query"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"link",
+				"link	Tag"
+			],
+			[
+				"cyc",
+				"cycloidY	{}"
+			],
+			[
+				"win",
+				"winString	(str)"
+			],
+			[
+				"defe",
+				"defeatedString"
+			],
+			[
+				"pilot",
+				"pilotB"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"No",
+				"novembre"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"H",
+				"H1	Tag"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"col",
+				"background-color"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"cy",
+				"cycloidY"
+			],
+			[
+				"de",
+				"defense"
+			],
+			[
+				"V",
+				"myVector"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"word",
+				"wordPalindromos"
+			],
+			[
+				"no",
+				"notSpacedSentence"
+			],
+			[
+				"inv",
+				"invWords"
+			],
+			[
+				"replace",
+				"str_replace"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"nom",
+				"nombre_usuario"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"sty",
+				"font-style"
+			],
+			[
+				"border-le",
+				"border-left-width"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"st",
+				"list-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"archiv",
+				"archivoDestino"
+			],
+			[
+				"archivo",
+				"archivoOrigen"
+			],
+			[
+				"N",
+				"NOMBRE_INSTANCIA_MODIFICADA"
+			],
+			[
+				"d",
+				"downloadInfo"
+			],
+			[
+				"director",
+				"directory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Klius/Documents/Javascript/pokemonMapInteractive/pokemonmapinteractive.html",
+			"settings":
+			{
+				"buffer_size": 4444,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Klius/Documents/Javascript/pokemonMapInteractive/interaction.js",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Unix",
+				"name": "interaction.js"
+			}
+		},
+		{
+			"file": "/Users/Klius/Documents/Javascript/pokemonMapInteractive/style.css",
+			"settings":
+			{
+				"buffer_size": 289,
+				"line_ending": "Unix",
+				"name": "style.css"
+			}
+		},
+		{
+			"file": "/Users/Klius/Desktop/PHP/Databaser/index.php",
+			"settings":
+			{
+				"buffer_size": 613,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Klius/Desktop/PHP/Databaser/exec/connect.php",
+			"settings":
+			{
+				"buffer_size": 128,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Klius/Desktop/PHP/Databaser/exec/eliminar.php",
+			"settings":
+			{
+				"buffer_size": 490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Klius/Desktop/PHP/Databaser/exec/destruir.php",
+			"settings":
+			{
+				"buffer_size": 195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Klius/Desktop/PHP/Databaser/exec/consulta.php",
+			"settings":
+			{
+				"buffer_size": 910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Klius/Desktop/PHP/Databaser/exec/js/moebius.js",
+			"settings":
+			{
+				"buffer_size": 1048,
+				"line_ending": "Unix",
+				"name": "moebius.js"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Klius/Desktop/PHP/Databaser/exec/crear.php",
+		"/Users/Klius/Desktop/PHP/Databaser/exec/insertar.php",
+		"/Users/Klius/Desktop/PHP/Databaser/mysql.php",
+		"/Users/Klius/Desktop/PHP/Databaser/exec/connect.php",
+		"/Users/Klius/Downloads/mysql.php_.txt",
+		"/Users/Klius/Downloads/mysql.php",
+		"/Users/Klius/Dropbox/Jaume Balsamic Z/Javascript/ProvesCanvas/index.html",
+		"/Users/Klius/Documents/Javascript/pokemonmapinteractive.html",
+		"/private/var/folders/WS/WSgKYU7oHjybaELo8MQfOE+++TI/-Tmp-/fz3temp-1/pokemons.js",
+		"/Users/Klius/Desktop/PHP/Sessions/pilot.php",
+		"/Users/Klius/Desktop/PHP/Sessions/resultats.php",
+		"/Users/Klius/Desktop/PHP/Sessions/classificaciopilots.php",
+		"/Users/Klius/Desktop/PHP/Sessions/menuformulari.php",
+		"/Users/Klius/Desktop/PHP/Sessions/index.php",
+		"/Users/Klius/Desktop/Practica1JS/examens/exam01.js",
+		"/Users/Klius/Desktop/Practica1JS/examens/exam02.js",
+		"/Users/Klius/Desktop/Practica1JS/examens/exam01.html",
+		"/Users/Klius/Desktop/Practica1JS/Gatetes.html",
+		"/Users/Klius/Library/Caches/TemporaryItems/Zipeg/1411131D2AB27A58.131/141116480787A778.131/UF1_Ex1_1314/3.html",
+		"/Users/Klius/Library/Caches/TemporaryItems/Zipeg/1411131D2AB27A58.131/141116480787A778.131/UF1_Ex1_1314/2.html",
+		"/Users/Klius/Library/Caches/TemporaryItems/Zipeg/1411131D2AB27A58.131/1411147FC69094B0.131/UF1_Ex1_1314/2.html",
+		"/Users/Klius/Desktop/PHP/notes.php",
+		"/Users/Klius/Downloads/Gat(Keypress+createelement).html",
+		"/Users/Klius/Downloads/default.php",
+		"/Users/Klius/Desktop/fitxers_canviats/validacio.html",
+		"/Users/Klius/Desktop/fitxers_canviats/js/script.js",
+		"/Users/Klius/Desktop/Practica1JS/battleweb/sftp-config.json",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/PHP/Formularios/Ahorcado/Ahorcado.php",
+		"/Users/Klius/Dropbox/Gat(Keypress+createelement).html",
+		"/Users/Klius/Desktop/Practica1JS/index.html",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/PHP/Formularios/ITV/itv.php",
+		"/Users/Klius/Desktop/Practica1JS/battleweb.js",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/PHP/Formularios/ITV/validateform.php",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/PHP/Formularios/ITV/form.php",
+		"/Users/Klius/Desktop/Practica1JS/regexp.html",
+		"/Users/Klius/Desktop/Practica1JS/regexp.js",
+		"/Users/Klius/Desktop/Practica1JS/battle.js",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/PHP/Formularios/ITV/succes.php",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/PHP/Formularios/ITV/form.html",
+		"/Users/Klius/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Klius/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Phantomile/Grau superior informàtica/DAM/1er Any/M4-XML/UF2/Practica 1 XSL/EstructuraCurs.xml",
+		"/Volumes/Phantomile/Grau superior informàtica/DAM/1er Any/M4-XML/UF2/Practica 1 XSL/estil.xsl",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/M9/estil.xsl",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/M9/IniciosHTML/Ex01.html",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/PHP/Formularios/flavor.html",
+		"/Users/Klius/Dropbox/Programacion/PHP/PHP_BALMES/Formulario PHP/index.php",
+		"/Users/Klius/Library/Caches/TemporaryItems/Zipeg/1408868A02102000.153/1408868A0214FE18.153/Calculadora.php",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/JS/Events/untitled.html",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/JS/Intro/CanviarImatges.html",
+		"/Users/Klius/Downloads/RandomProva.java",
+		"/Users/Klius/Desktop/administration-master/build-clients/README.md",
+		"/Users/Klius/Downloads/Adobe Acrobat X Pro 10.1.4 Mac OS X (English French German) (keygen-CORE) [ChingLiu]/ChingLiu.Notes.nfo",
+		"/Volumes/Phantomile/Grau superior informàtica/DAW/PHP/Primeros pasos/Calculadora.php",
+		"/Users/Klius/Desktop/Practica 1 JS/POO.js",
+		"/Users/Klius/Desktop/SpiderMonkey/js/src/Makefile.in",
+		"/Users/Klius/Dropbox/proyectos/non vegetable identificator/The Fappening 2 - Hardwarra Edition/PHP - Jaume Balsamic/Aleix_Taules/style.css",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/styles/alert.css",
+		"/Users/Klius/Documents/Scripts/Perl/downloadfromffextreme.pl",
+		"/Users/Klius/Downloads/Client.cpp",
+		"/Users/Klius/Documents/Arduino/libraries/Gamer/Gamer.h",
+		"/Users/Klius/Downloads/juegos.sql",
+		"/Users/Klius/Desktop/Web/stockmanager.php",
+		"/Users/Klius/Desktop/Web/register.php",
+		"/Users/Klius/Desktop/Web/plantilla.php",
+		"/Users/Klius/Desktop/Web/main.php",
+		"/Users/Klius/Desktop/Web/llistausers.php",
+		"/Users/Klius/Desktop/Web/llistastock.php",
+		"/Users/Klius/Desktop/Web/insertuser.php",
+		"/Users/Klius/Desktop/Web/insertJoc.php",
+		"/Users/Klius/Desktop/Web/edituser.php",
+		"/Users/Klius/Desktop/Web/editJocs.php",
+		"/Users/Klius/Desktop/Web/altajocs.php",
+		"/Users/Klius/Desktop/Web/tablemaker.php",
+		"/Users/Klius/Desktop/Web/styles/alta.css",
+		"/Users/Klius/Desktop/Web/styles/update.css",
+		"/Users/Klius/Desktop/Web/classes/utils.php",
+		"/Users/Klius/Desktop/Web/classes/updateobject.php",
+		"/Users/Klius/Desktop/Web/classes/deleteobject.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/llistastock.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/auth.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/llistausers.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/altajocs.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/register.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/tablemaker.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/llistastock.html",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/main.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/styles/alertbad.css",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/styles/alertgood.css",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/alert.html",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/insertJoc.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/styles/alta.css",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/index.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/mysql.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/insertuser.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/insertJoc.html",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/logout.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/stockmanager.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/llistastock",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/plantilla.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/styles/general.css",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/login.php",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/styles/main.css",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/main.html",
+		"/Volumes/Phantomile/Grau superior informàtica/ASIX/Projectes/Projecte 3/Individual/Web/styles/login.css",
+		"/Users/Klius/Desktop/26_motion/26_motion.cpp",
+		"/Users/Klius/Dropbox/proyectos/non vegetable identificator/The Fappening 2 - Hardwarra Edition/Practica2_VALVERDE/index.php",
+		"/Users/Klius/Desktop/Proyecte 2/script_firewall.sh",
+		"/Volumes/QUAKE101/INSTALL.BAT",
+		"/Users/Klius/Dropbox/proyectos/non vegetable identificator/aleix.txt~",
+		"/Users/Klius/rutas.ru",
+		"/Users/Klius/copyFiles.pl",
+		"/Users/Klius/downloadInfo.pm",
+		"/Users/Klius/downloadfromffextreme.pl",
+		"/Users/Klius/downloadInfo.pl"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"`",
+			"href",
+			"http",
+			"n",
+			"string2",
+			"playa",
+			"pla",
+			"print",
+			"Comics",
+			"updated",
+			"echo",
+			"}",
+			"{",
+			"register",
+			"50px",
+			"3389"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"alt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Klius/Documents/Javascript/pokemonMapInteractive/pokemonmapinteractive.html",
+					"settings":
+					{
+						"buffer_size": 4444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Klius/Documents/Javascript/pokemonMapInteractive/interaction.js",
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"auto_name": "interaction.js",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Klius/Documents/Javascript/pokemonMapInteractive/style.css",
+					"settings":
+					{
+						"buffer_size": 289,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "style.css",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/Users/Klius/Desktop/PHP/Databaser/index.php",
+					"settings":
+					{
+						"buffer_size": 613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								437,
+								437
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Klius/Desktop/PHP/Databaser/exec/connect.php",
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Klius/Desktop/PHP/Databaser/exec/eliminar.php",
+					"settings":
+					{
+						"buffer_size": 490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								6
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 11.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/Klius/Desktop/PHP/Databaser/exec/destruir.php",
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/Klius/Desktop/PHP/Databaser/exec/consulta.php",
+					"settings":
+					{
+						"buffer_size": 910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								748,
+								748
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/Klius/Desktop/PHP/Databaser/exec/js/moebius.js",
+					"settings":
+					{
+						"buffer_size": 1048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"auto_name": "moebius.js",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.79765625,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
