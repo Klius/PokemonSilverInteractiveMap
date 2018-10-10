@@ -36,7 +36,7 @@ window.onload=function(){
 		      setTownDescription(xhttp.responseText);
 		    }
 	  	};
-		xhttp.open("GET", "assets/towninfo/"+townName+".js", true);
+		xhttp.open("GET", "assets/townInfo/"+townName+".js", true);
 		xhttp.send();
 	}
 
